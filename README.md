@@ -2,12 +2,11 @@
 
 <hr>
 
-<summary><b>About Me</b></summary>
-I'm Portugal student. 
-I have a strong passion for technology and have gained experience on some projects I have did.
+# About me
+I'm from Castelo Branco, Portugal, where I am student in high school and I learn programming by myself. I have a strong interest in themes like cybersecurity and Artificial Inteligence. I do websites and Python apps. Outside of programming, I love strategy games and football
 <br>
 
-<sub>Go check my pinned projects!</sub>
+<sub>Go check my pinned projects and keep looking for my new projects!</sub>
 
 <hr>
 
