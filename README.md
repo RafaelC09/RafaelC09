@@ -3,7 +3,7 @@
 <hr>
 
 # About me
-I'm from Castelo Branco, Portugal, where I am student. I have a strong interest in themes like cybersecurity and Artificial Inteligence. I do websites and Python apps. Outside of programming, I love strategy games and football
+I'm from Castelo Branco, Portugal, where I am student. I have a strong interest in themes like cybersecurity and Artificial Inteligence. I do websites and Python apps. Outside of programming, I love strategy games and football.
 <br>
 
 <sub>Go check my pinned projects and keep looking for my new projects!</sub>
