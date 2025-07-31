@@ -1,9 +1,9 @@
-<h3>Hello, Im Rafael!</h3>
+<h3>Hello, I'm Rafael!</h3>
 
 <hr>
 
 # About me
-I'm from Castelo Branco, Portugal, where I am student. I have a strong interest in themes like cybersecurity and Artificial Inteligence. I do websites and Python apps. Outside of programming, I love strategy games and football.
+I'm from Castelo Branco, Portugal, where I am student. I've a strong interest in themes like cybersecurity and Artificial Inteligence. I do websites and Python apps. Outside of programming, I love strategy games and football.
 <br>
 
 <sub>Go check my pinned projects and keep looking for my new projects!</sub>
